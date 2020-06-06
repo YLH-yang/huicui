@@ -1,0 +1,138 @@
+html,body {width:100%;height: 100%;overflow: hidden;font-family: "微软雅黑";}ul{list-style: none;}
+ul,li{margin:0;padding: 0;}
+.main-show {
+
+}
+.m0 {
+	margin-left: 0;margin-right: 0;
+}
+a{text-decoration: none;}
+.h100 {height: 100%;}
+.main-show {
+	background: url(../img/dz-bg.jpg) no-repeat 0 0;
+	background-size: 100% 100%;
+	position: relative;
+}
+.mt-bg {
+	background: url(../img/hy-bg@3x.png) no-repeat 0 0;background-size: 100% 100%;}
+.content{
+	width:60%;
+	/*max-height: 800px;*/
+	position: absolute;
+	color:#fff;
+}
+.outer {
+	max-height: calc(100% - 150px);
+	color:#fff;
+}
+.outer {
+	
+}
+.scroll-con p {
+	font-size:1.8rem;
+	line-height: 2.5;
+}
+.h-title {
+	font-size:3rem;
+}
+
+.go-dz {
+	background-color: #fff;
+    border-radius: 36px;
+    position: fixed;
+    color: #ff221c;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 9px 48px;
+    right: 19%;
+    bottom: 6%
+}
+.dz-list {
+	text-align: center;
+	margin:0 auto;
+}
+.dz-list li {
+	float:left;
+	width:45%;
+	margin:1% 2%;
+}
+.dz-list li a {
+	font-size:2rem;
+	color: #fff;
+}
+
+
+.icon-dh {
+	width:30px;
+	height: 30px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 1.2rem;
+	background: url(../img/w-dh@3x.png) center center no-repeat;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
+.icon-dh-big {
+	width:60px;
+	height: 60px;	
+}
+.fix-con {
+	   right: 19%;
+   		bottom:80px;
+	  position: fixed;
+	  width:70px;
+	  height: 150px;
+
+}
+.fix-con a {
+	display: block;
+}
+.back { 
+  
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.back img {
+	width:68px;
+	height: 68px;
+	text-align: center;
+}
+.back p {
+	font-size:20px;
+	text-align: center;
+}
+.main-h1 {
+	width:80%;
+	margin:0 auto;
+	text-align: center;
+	}
+.top {
+	bottom: 26%;
+}
+.main-con1 {
+	 touch-action: none; 
+}
+/*right-fixed*/
+/* .right-fixed{position:fixed; right:0px; bottom:150px;}
+.right-fixed li{width:50px; height:50px; background-color:#cacaca; margin-bottom:1px; cursor:pointer; position:relative;}
+.right-fixed .app, .right-fixed .weixin, .right-fixed .wap, .app-logo, .weixin-logo{background-image:url(../../images/tubiao.png); background-repeat:no-repeat; transition-duration:400ms; -moz-transition-duration:400ms; -webkit-transition-duration:400ms; -o-transition-duration:400ms;}
+.right-fixed .app:hove, .right-fixed .weixin:hover, .right-fixed .wap:hover{background-image:url(../../images/tubiao.png); background-repeat:no-repeat; transition-duration:400ms; -moz-transition-duration:400ms; -webkit-transition-duration:400ms; -o-transition-duration:400ms;}
+.right-fixed .back-top{background-image:url(../../images/tubiao.png); background-repeat:no-repeat;}
+.right-fixed .back-top:hover{background-image:url(../../images/tubiao.png); background-repeat:no-repeat;}
+.right-fixed .app{background-position:-10px -170px;}
+.right-fixed .weixin{background-position:-65px -170px;}
+.right-fixed .wap{background-position:-120px -170px;}
+.right-fixed .back-top{display:none; background-position:-175px -170px;}
+.right-fixed .app:hover{background-position:-10px -114px;}
+.right-fixed .weixin:hover{background-position:-65px -114px;}
+.right-fixed .wap:hover{background-position:-120px -114px;}
+.right-fixed .back-top:hover{background-position:-175px -114px;}
+.app-logo, .weixin-logo, .wap-logo{width:162px; display:none; position:absolute; bottom:0; left:-162px; border:1px solid #ccc; box-sizing:border-box;}
+.app-logo{height:180px; background-position:-180px -229px;}
+.weixin-logo{height:200px; background-position:-10px -229px;}
+.right-fixed .app:hover .app-logo{display:block;}
+.right-fixed .weixin:hover .weixin-logo{display:block;}
+.right-fixed .wap:hover .wap-logo{display:block;}
+ */

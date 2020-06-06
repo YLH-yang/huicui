@@ -1,0 +1,25 @@
+body {
+	color: #e71f19;
+}
+.outer {
+	color: #e71f19;
+}
+.fix-ml60 {
+	position: relative;
+	left:-100px;
+}
+.fix-mr60 {
+	position: relative;
+	right: -100px;
+}
+.mt-bg .dz-list li a {
+font-size: 1rem;
+color: #e71f19;
+}
+.icon-dh {
+	width: 10px;
+	height: 10px;
+	background: #e71f19 center center no-repeat;
+	-webkit-background-size: contain;
+	background-size: contain;
+}
