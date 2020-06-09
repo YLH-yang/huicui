@@ -16,7 +16,7 @@ body {
 	right: -100px;
 }
 .mt-bg .dz-list li a {
-font-size: 1rem;
+font-size: 2rem;
 color: #e71f19;
 }
 .icon-dh {
@@ -28,7 +28,7 @@ color: #e71f19;
 }
 .fix-nav {
 	position: absolute;
-	bottom:30px;
+	bottom:50px;
 	right:5%;
 }
 .mt-nav-btn {
@@ -39,4 +39,52 @@ color: #e71f19;
 	font-weight: bold;
 	font-size: 20px;
 	padding: 9px 48px;
+}
+.mt-back {
+	position:absolute;
+	bottom:20px;
+	right:10%;
+}
+.dblist {
+	width:80%;
+}
+.dblist li {
+	width:auto;
+}
+.dblist li a {
+	font-size: 1.5rem;
+	color: #f5000b;
+	text-shadow: 0 0 4px #ffffff;
+}
+.db-tit {
+	position: absolute;
+	top: 16%;
+	font-weight: bold;
+	font-size: 3rem;
+	text-align: center;
+	text-shadow: 0 0 2px #fff;
+}
+.db-d-outer {
+max-height: calc(100% - 350px);
+	width:80%;
+}
+.db-d {
+	
+}
+.db-details-con p {
+	font-size:1.8rem;
+	text-indent: 3rem;
+	line-height: 2;
+}
+.db-d-fix-btn {
+	position: fixed;
+	bottom: 15%;
+	left: 45%;
+	width:80px;
+
+}
+.db-d-fix-btn a {
+	color: #e71f19;	
+	text-align: center;
+	display: block;
 }
