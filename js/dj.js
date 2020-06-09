@@ -19,19 +19,7 @@
 
 
 //init slimScroll 
-/*	function setScroll(){
-		var topH = $('.sec-h1').outerHeight();
-		var wH = $(window).height();
-		$('.main-con1').css('height',wH-topH-80);
-		console.log(wH-topH-40)				
-		$('.main-con1').slimScroll({
-			height:wH-topH-200
-		});				
-	}
-	if(!isMobile){
-		setScroll();
-		$(window).on("resize",setScroll);	
-	}*/
+
 	function setScroll(){
 		//var topH = $('.sec-h1').outerHeight();
 		var wH = $(window).height();	

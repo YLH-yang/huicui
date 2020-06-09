@@ -114,6 +114,11 @@ a{text-decoration: none;}
 .main-con1 {
 	 touch-action: none; 
 }
+
+
+
+
+
 /*right-fixed*/
 /* .right-fixed{position:fixed; right:0px; bottom:150px;}
 .right-fixed li{width:50px; height:50px; background-color:#cacaca; margin-bottom:1px; cursor:pointer; position:relative;}

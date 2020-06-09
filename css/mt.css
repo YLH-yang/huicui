@@ -4,6 +4,9 @@ body {
 .outer {
 	color: #e71f19;
 }
+.fix-pd5 {
+	padding:0 10%;
+}
 .fix-ml60 {
 	position: relative;
 	left:-100px;
@@ -22,4 +25,18 @@ color: #e71f19;
 	background: #e71f19 center center no-repeat;
 	-webkit-background-size: contain;
 	background-size: contain;
+}
+.fix-nav {
+	position: absolute;
+	bottom:30px;
+	right:5%;
+}
+.mt-nav-btn {
+	background-color: #fff;
+	border-radius: 36px;
+	
+	color: #ff221c;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 9px 48px;
 }
