@@ -56,6 +56,9 @@ color: #e71f19;
 	color: #f5000b;
 	text-shadow: 0 0 4px #ffffff;
 }
+.dblist li p {
+	font-weight: bold;
+}
 .db-tit {
 	position: absolute;
 	top: 16%;
@@ -87,4 +90,7 @@ max-height: calc(100% - 350px);
 	color: #e71f19;	
 	text-align: center;
 	display: block;
+}
+.ls-con {
+	width:90%;
 }
